@@ -13,11 +13,14 @@ I started learning Computer Science fall of 2022.
 <p align="center"><samp>I'm excited to learn more about the sub fields of Computer Science and other programming languages!
 <br>
 <br>
-<br>
 <h1> </h1>
+<h3 align="center"><samp>About</h3><samp>
+<li align="center"><b>Learning:</b> Java
+<li align="center"><b>Languages:</b> Java
+<li align="center"><b>Hobbies:</b> Gaming & Baking
+<li align="center"><b>Likes:</b> My cat, Atlas
+<br>
 <br>
 <br>
 <p align="center"><img src="https://static.wikia.nocookie.net/omori/images/7/72/White_Space_%28Omori_Preorder_Trailer%29.png/revision/latest/scale-to-width-down/250?cb=20220528034748" width=25%"/>
 <p align="center"><samp>waiting for something to happen?</p>
-
-<p align="center"><a href="https://linkedin.com/in/lorelai-davis-83184263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
