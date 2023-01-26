@@ -10,7 +10,7 @@
 Hello! I'm Lorelai Davis, a college student at Virginia Commonqealth University currently studying Computer Science.
 I started learning Computer Science fall of 2022. 
 <samp>
-<p align="center"><samp>I'm excited to learn more about the sub fields of Computer Science and other programming languages!
+<p align="center"><samp>I'm excited to learn more about the subfields of Computer Science and other programming languages!
 <br>
 <br>
 <h1> </h1>
