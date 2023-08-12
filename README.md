@@ -2,8 +2,8 @@
 <h1 align="center"><samp>Hi there, I'm Lorelai ✌️</samp></h1>
          
 <h4 align="center"><samp>
-  📖 A 2nd year college student pursuing a Bachelors in Computer Science<br>
-  ☕ Currently learning Java
+  📖 A 3rd year college student pursuing a Bachelors in Computer Science<br>
+  ☕ Currently learning C
 </samp></h4>
 <br>
 <p align="center"><samp>
@@ -15,12 +15,13 @@ I've been learning Java since Fall 2022, soon moving onto C in the fall. I'm cur
 <br>
 <h1> </h1>
 <h3 align="center"><samp>About</h3><samp>
-<li align="center"><b>Learning:</b> Java
+<li align="center"><b>Learning:</b> Java, C, HTML, C++
 <li align="center"><b>Languages:</b> Java
-<li align="center"><b>Hobbies:</b> Gaming & Baking
+<li align="center"><b>Hobbies:</b> Video gaming, Cooking
 <li align="center"><b>Likes:</b> My cat, Atlas
 <br>
 <br>
 <br>
+         <br>
 <p align="center"><img src="https://static.wikia.nocookie.net/omori/images/7/72/White_Space_%28Omori_Preorder_Trailer%29.png/revision/latest/scale-to-width-down/250?cb=20220528034748" width=25%"/>
 <p align="center"><samp>waiting for something to happen?</p>
