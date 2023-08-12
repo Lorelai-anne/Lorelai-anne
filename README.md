@@ -8,9 +8,9 @@
 <br>
 <p align="center"><samp>
 Hello! I'm Lorelai Davis, a college student at Virginia Commonqealth University currently studying Computer Science.
-I started learning Computer Science fall of 2022. 
+I've been learning Java since Fall 2022, soon moving onto C in the fall. I'm currently trying to teach myself basic html and C++! 
 <samp>
-<p align="center"><samp>I'm excited to learn more about the subfields of Computer Science and other programming languages!
+<p align="center"><samp>I'm excited to learn more about the different ways you can go with a computer science degree! I've been interested in User experience and interfaces along with artificial intelligence!
 <br>
 <br>
 <h1> </h1>
