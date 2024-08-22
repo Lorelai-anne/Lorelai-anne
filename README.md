@@ -2,7 +2,7 @@
 <h1 align="center"><samp>Hi there, I'm Lorelai ✌️</samp></h1>
          
 <h4 align="center"><samp>
-  📖 A 3rd year college student pursuing a Bachelors in Computer Science<br>
+  📖 A college student pursuing a Bachelors in Computer Science<br>
   ☕ Currently learning Unity
 </samp></h4>
 <br>
