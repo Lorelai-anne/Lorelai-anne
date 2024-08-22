@@ -3,20 +3,20 @@
          
 <h4 align="center"><samp>
   📖 A 3rd year college student pursuing a Bachelors in Computer Science<br>
-  ☕ Currently learning C
+  ☕ Currently learning Unity
 </samp></h4>
 <br>
 <p align="center"><samp>
 Hello! I'm Lorelai Davis, a college student at Virginia Commonqealth University currently studying Computer Science.
-I've been learning Java since Fall 2022, soon moving onto C in the fall. I'm currently trying to teach myself basic html and C++! 
+I've been learning Java since Fall 2022. Currently a TA for CMSC 255 
 <samp>
-<p align="center"><samp>I'm excited to learn more about the different ways you can go with a computer science degree! I've been interested in User experience and interfaces along with artificial intelligence!
+<p align="center"><samp>I'm trying my hand at game development
 <br>
 <br>
 <h1> </h1>
 <h3 align="center"><samp>About</h3><samp>
-<li align="center"><b>Learning:</b> Java, C, HTML, C++
-<li align="center"><b>Languages:</b> Java
+<li align="center"><b>Learning:</b> Unity
+<li align="center"><b>Languages:</b> Java, C
 <li align="center"><b>Hobbies:</b> Video gaming, Cooking
 <li align="center"><b>Likes:</b> My cat, Atlas
 <br>
