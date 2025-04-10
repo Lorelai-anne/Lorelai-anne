@@ -15,7 +15,8 @@ I've been learning Java since Fall 2022. Currently a TA for CMSC 255
 <br>
 <h1> </h1>
 <h3 align="center"><samp>About</h3><samp>
-<li align="center"><b>Learning:</b> Unity
+<li align="center"><b>Programs:</b> Unity, Figma
+<li align="center"><b>Learning:</b> Blender3D, VR, Full Body Motion Capture
 <li align="center"><b>Languages:</b> Java, C
 <li align="center"><b>Hobbies:</b> Video gaming, Cooking
 <li align="center"><b>Likes:</b> My cat, Atlas
